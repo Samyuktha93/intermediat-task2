@@ -1,0 +1,13 @@
+Available Doctors:
+ID: D1, Name: Dr. Henry, Specialization: Cardiology
+ID: D2, Name: Dr. sony, Specialization: Neurology
+
+Enter patient details:
+Name: Ganesh
+Blood Type: B+
+Connecting with potential blood donors for patient John Doe
+Found donor: Alice with blood type B+
+
+Scheduling an appointment:
+Enter Doctor ID: G1
+Doctor Dr. Henry is providing medical service to patient John Doe
